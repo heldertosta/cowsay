@@ -1,0 +1,11 @@
+{
+  "name": "cowsay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/heldertosta/cowsay.git",
+  "author": "Helder Tosta <helderatosta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
